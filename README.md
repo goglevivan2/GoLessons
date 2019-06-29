@@ -1,10 +1,10 @@
 # GoLessons
  в данном репозитории будут хранится уроки по  Go
  
-first.go - Вводная \n
-second.go - Переменные
-third.go - Строки
-fourth.go - printf
+first.go - Вводная                                                                                                                              
+second.go - Переменные                                                                                                                          
+third.go - Строки                                                                                                                               
+fourth.go - printf                                                                                                                              
 fifth.go - Условные операторы
 sixth.go - switch
 seventh.go - Цикл for
