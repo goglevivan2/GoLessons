@@ -1,7 +1,7 @@
 # GoLessons
  в данном репозитории будут хранится уроки по  Go
  
-first.go - Вводная
+first.go - Вводная \n
 second.go - Переменные
 third.go - Строки
 fourth.go - printf
