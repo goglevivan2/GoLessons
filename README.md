@@ -9,7 +9,7 @@ fifth.go - Условные операторы
 sixth.go - switch                                                                                                                               
 seventh.go - Цикл for                                                                                                                           
 eighth.go - Массивы                                                                                                                             
-ninth.go - Maps - карты(похоже на словати в питоне)                                                                                             
+ninth.go - Maps - карты(похоже на словари в питоне)                                                                                             
 tenth.go - Функции                                                                                                                              
 eleventh.go - Замыкания (похоже на лямбда-функции)                                                                                              
 twelfth.go - Откладывание                                                                                                                       
